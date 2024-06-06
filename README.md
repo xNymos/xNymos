@@ -7,7 +7,7 @@
 
 ### Estou me desenvolvendo na programação 💻
 - _JavaScript/Alura_
-- _Estou estudando no [Alura](https:/www.alura.com.br) 🔗_
+- _Estou estudando no [Alura](https://www.alura.com.br/) 🔗_
 
 🥀___________________________________________________________________________🥀
 ![](https://media1.tenor.com/m/gFBfnd5eFRoAAAAC/anime-black.gif)
